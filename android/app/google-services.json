@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816964906230",
+    "project_id": "fir-toshal",
+    "storage_bucket": "fir-toshal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816964906230:android:3c268fc8aae237154190d7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_toshal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816964906230-c6lnevr6n247c1mhcrrilhn7lv8v7cqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDznValWc5HJHnoUKobWdRtswdSlR0CQfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816964906230-c6lnevr6n247c1mhcrrilhn7lv8v7cqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
